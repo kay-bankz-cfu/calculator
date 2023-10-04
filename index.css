@@ -1,0 +1,14 @@
+.apple{
+    border: 2px dotted greenyellow;
+    padding: 20px;
+    width: fit-content;
+}
+.apple div{
+    margin: 20px;
+}
+.apple div button{
+    border: none;
+    border-radius: 50px;
+    padding: 10px;
+    margin: 10px;
+}
